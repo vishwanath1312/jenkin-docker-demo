@@ -1,0 +1,2 @@
+spring.application.name=jenkin-docker-demo
+server.por=8096
